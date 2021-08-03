@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: white;
+    padding: 6px;
+    border: 5px solid blue;
+    border-radius: 20px;
+    font-size: 15px;
+    color: black;
+}
+
+header a {
+    color: white;
+    background-color: blue;
+    font-size: 15px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+nav {
+    margin: 20px;
+    padding: 10px;
+}
+
+nav a {
+    margin: 10px;    
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid blue;
+    border-radius: 10px;
+    background-color: blue;
+}
+.popular {
+    background-color: white;
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: rebeccapurple;
+}
+
+.production {
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+main {
+    padding: 15px;
+    font-size: 20px;
+}
+
+main h2 {
+    font-size: 30px;
+    color: darkblue;
+}
+
+.link {
+    border: 3px solid slateblue;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color: slateblue;
+}
+
+footer {
+    background-color: white;
+    padding: 10px;
+}
+
+footer p {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border: 1px solid white;
+}
